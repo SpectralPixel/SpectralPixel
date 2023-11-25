@@ -1,4 +1,10 @@
-### Hi there 👋
+### HELLO!!!!!
+
+## Who dis?
+Hi!! I make stuff in my free time. I was born in 2008, and I enjoy to program in my free time :3
+
+## Cool looking numbers :P
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spectralpixel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SpectralPixel/SpectralPixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
