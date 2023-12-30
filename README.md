@@ -17,9 +17,7 @@ I mostly do this in *my free time*, it's just a hobby. This is lower priority th
 ### Cool looking numbers :P
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spectralpixel&show_icons=true&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spectralpixel&layout=compact&theme=dark)  
-This one is probably a bit off since sometimes the GitIgnore doesn't like to play nice with UnityEngine.  
-I don't actually code in HLSL or ShaderLab, but those were commited alongside my scripts...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spectralpixel&layout=compact&theme=dark&hide=HLSL,ShaderLab)
 
 
 <!--
