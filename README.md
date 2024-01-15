@@ -15,9 +15,9 @@ I mostly do this in *my free time*, it's just a hobby. This is lower priority th
 
 
 ### Cool looking numbers :P
-![rraaaaahhhhhh numbers](https://github-readme-stats.vercel.app/api?username=spectralpixel&show_icons=true&theme=dark)
+![rraaaaahhhhhh numbers](https://github-readme-stats.vercel.app/api?username=spectralpixel&show_icons=true&theme=dark&include_orgs=true)
 
-![is it called a pi chart because it's a circle? wait no-](https://github-readme-stats.vercel.app/api/top-langs/?username=spectralpixel&layout=pie&theme=dark&hide=HLSL,ShaderLab)
+![is it called a pi chart because it's a circle? wait no-](https://github-readme-stats.vercel.app/api/top-langs/?username=spectralpixel&layout=pie&theme=dark&hide=HLSL,ShaderLab&include_orgs=true)
 
 
 <!--
