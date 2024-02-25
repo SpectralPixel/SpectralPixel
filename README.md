@@ -6,10 +6,12 @@ Hi!! I was born in 2008, as of writing this I'm 15 years old.
 
 ### I know how to program in:
 - Python
+  - Tkinter GUI 
 - HTML / CSS / Javascript
 - C# (with UnityEngine)
 - Beginner in Rust, finished the book.
 - Learning the Bevy game engine.
+- Scratch (don't know if that counts though XD)
 
 
 ### Setup?
