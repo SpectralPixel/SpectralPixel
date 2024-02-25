@@ -1,7 +1,7 @@
 ## heyo!!!!!
 
 ### Who dis?
-Hi!! I was born in 2008, as of writing this I'm 15 years old.
+Hi!! I was born in 2008, as of writing this I'm 15 years old. Coding since late 2019, when I was 11.
 
 
 ### I know how to program in:
