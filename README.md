@@ -18,8 +18,8 @@ Hi!! I was born in 2008, as of writing this I'm 15 years old. Coding since late 
 - Dual booting:
   - Arch Linux (since January 2024)
   - Windows 11
-- My code editor is VSCode, thinking about switching to a modal editor like helix though...
-- Laptop
+- My code editor: Helix, formerly VSCode
+- Laptop: Lenovo Ideapad Gaming 3 15ACH6
 
 
 ### You disappeared???
