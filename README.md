@@ -25,7 +25,6 @@ Hi!! I was born in 2008, as of writing this I'm 15 years old. Coding since late 
 ### You disappeared???
 - I'm probably working on school =w=
 - I mostly do this in *my free time*, it's just a hobby. This is lower priority than other important things.
-- If you really, *really* need to reach me, mail me at `encrypteddvjjrxv@gmail.com` or `encrypteddvjjrxv` on Discord.  
 
 
 ### Watcha up to?
