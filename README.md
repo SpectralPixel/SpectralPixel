@@ -1,7 +1,7 @@
 ## heyo!!!!!
 
 ### Who dis?
-Hi!! I was born in 2008, as of writing this I'm 15 years old. Coding since late 2019, when I was 11.
+Hi!! I was born in 2008, and I am currently 16 years old. Coding since late 2019, when I was 11.
 
 
 ### I know how to program in:
@@ -13,6 +13,8 @@ Hi!! I was born in 2008, as of writing this I'm 15 years old. Coding since late 
 - Learning the Bevy game engine.
 - Scratch (don't know if that counts though XD)
 
+Books I've read: The Rust Programming Language, The Pragmatic Programmer
+
 
 ### Setup?
 - Dual booting:
@@ -20,6 +22,9 @@ Hi!! I was born in 2008, as of writing this I'm 15 years old. Coding since late 
   - Windows 11
 - My code editor: Helix, formerly VSCode
 - Laptop: Lenovo Ideapad Gaming 3 15ACH6
+- Mouse: Steelseries Rival 3 Wireless
+- Thinking about switching to NixOS??
+- Learning Colemak-DH
 
 
 ### You disappeared???
