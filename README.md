@@ -1,7 +1,7 @@
 ## New account:<br>https://codeberg.org/spectralpixel
 
 ## Who's this?
-Hi! I was born in 2008, and I am currently 16 years old. Been programming since the lockdown, though I've been interested in programming for much longer :)
+Hi! I was born in 2008, and I am currently 17 years old. Been programming since the lockdown, though I've been interested in programming for much longer :)
 
 | Languages               | Technologies  | Books                         |
 | ----------------------- | ------------- | ----------------------------- |
